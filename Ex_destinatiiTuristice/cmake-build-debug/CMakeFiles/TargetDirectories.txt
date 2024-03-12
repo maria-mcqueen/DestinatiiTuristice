@@ -1,0 +1,3 @@
+C:/Users/tenni/CLionProjects/examen_pra_poo_v3/cmake-build-debug/CMakeFiles/examen_pra_poo_v1.dir
+C:/Users/tenni/CLionProjects/examen_pra_poo_v3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tenni/CLionProjects/examen_pra_poo_v3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

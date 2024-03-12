@@ -1,0 +1,6 @@
+1 mNm 10 10
+2 fanta 7 7
+3 milka 5 50
+4 steamGiftCard 8 80
+5 erwr 324 234
+6 sa 6 60
